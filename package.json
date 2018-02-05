@@ -1,0 +1,19 @@
+{
+  "name": "nbroccurence",
+  "version": "1.0.0",
+  "description": "",
+  "main": "test2.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lili83/nbrOccurence.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lili83/nbrOccurence/issues"
+  },
+  "homepage": "https://github.com/lili83/nbrOccurence#readme"
+}
